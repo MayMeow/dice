@@ -27,7 +27,7 @@ If you want throw more with another dice or you want throw more times use
 $dice->roll('3x6');
 
 // throw 5 times with non standar dice
-$dice->roll(5x20);
+$dice->roll('5x20');
 ```
 
 ## Contributing
