@@ -1,6 +1,6 @@
 # Dice
 
-TODO: Write a project description
+Very simple dice roller
 
 ## Installation
 
