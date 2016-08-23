@@ -1,0 +1,20 @@
+{
+    "name": "asunay/dice",
+    "description": "Dice roller",
+    "type": "plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Charlotta Jung",
+            "email": "jungcharlotta@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "AsunaY\\": "src"
+        }
+    },
+    "require": {
+        "asunay/random": "^0.1.1"
+    }
+}

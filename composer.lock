@@ -1,0 +1,52 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "fc97da0fa1e175743c3c2d7b85e7556d",
+    "content-hash": "1781cb9e110a249b58decc6a3b0abb35",
+    "packages": [
+        {
+            "name": "asunay/random",
+            "version": "v0.1.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/asunay/random.git",
+                "reference": "59065d8525d13d7a3129a59eaedbeaefed2758c3"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/asunay/random/zipball/59065d8525d13d7a3129a59eaedbeaefed2758c3",
+                "reference": "59065d8525d13d7a3129a59eaedbeaefed2758c3",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "AsunaY\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Charlotta Jung",
+                    "email": "jungcharlotta@gmail.com"
+                }
+            ],
+            "description": "Pseudo random generator library",
+            "time": "2016-08-19 09:54:53"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
